@@ -43,6 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <!-- Typescript --> 
+  <img src="https://i.postimg.cc/9Qhy9MYQ/ts-logo-128.png" width="40" height="40" alt="typescript"/>
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <!-- Java -->
@@ -67,7 +69,12 @@
           
   <!-- GitHub -->
   <img src="https://i.postimg.cc/tRsQxRBP/github-mark-white.png" alt="GitHub" width="40" height="40"/>
-</p>
 
+ <!-- Firebase -->
+ <img src="https://i.postimg.cc/sDzk0PVP/icons8-google-firebase-console-100.png" alt="firebase" width="40" height="40"/>
+
+ <!-- Express -->
+ <img src="https://i.postimg.cc/ydFfF53M/Pi7-icons8-express-js-50.png" width="40" height="40"/>
+ </p>
 
 
