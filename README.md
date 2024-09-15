@@ -16,6 +16,7 @@
  ⚡ Fun fact ->  **One piece isn't as long as you think**
  </div>
 
+ <h3 align="center">Connect with me</h3>
  <div align="center"> 
   <a href="mailto:ombhanushali005@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
