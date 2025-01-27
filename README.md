@@ -9,9 +9,8 @@
 <br/>
 
 <div align="center">
-🔭 I’m currently working on a scholarship portal
  
- 🌱 I’m currently learning **React, Firebase, Express**
+ 🌱 I’m currently learning **Flutter, Firebase, Express**
 
  ⚡ Fun fact ->  **One piece isn't as long as you think**
  </div>
