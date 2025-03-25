@@ -18,7 +18,11 @@
 </p>  -->
 
 # GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ombhanushaliii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ombhanushaliii&theme=dark&hide_border=false)<br/>
+<div>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ombhanushaliii&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <br/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ombhanushaliii&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+</div>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=luciferx77.luciferx77" />
