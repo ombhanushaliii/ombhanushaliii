@@ -23,5 +23,6 @@
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ombhanushaliii&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 </div>
+<br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=luciferx77.luciferx77" />
+![:name](https://count.getloli.com/@:ombhanushaliii)
