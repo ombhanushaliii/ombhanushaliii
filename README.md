@@ -1,9 +1,9 @@
 <h1 align="center">Hi👋, I'm Om Bhanushali!</h1>
 
-- 📫 How to reach me **om06@somaiya.edu**
+- 📫 How to reach me **ombhanushali@hotmail.com**
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/ombhanushaliii/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:om06@somaiya.edu" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:ombhanushali@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.codechef.com/"> <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"> </a>
 <hr>
 
