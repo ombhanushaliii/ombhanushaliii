@@ -46,7 +46,7 @@
 
 
 <h2 align="start">
-  <img src="https://res.cloudinary.com/dnwymqpt8/image/upload/f_auto,q_auto/v1/Github%20README/pcpep1yndjtp0hj1ewbq" width="20" alt="GitHub Stats">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHozaDluOTZmY2k0dTZ6NG43NWE3bDRidTg1Nm51aXF3emw5ZXJ4MiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cj87CxfRtrUifF3Ryk/giphy.gif" alt="stats_animation" width="25" alt="GitHub Stats">
   GitHub Stats
 </h2>
 <div>
