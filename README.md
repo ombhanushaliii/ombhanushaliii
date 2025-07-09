@@ -1,7 +1,10 @@
 <h1 align="center">Hi👋, I'm Om Bhanushali!</h1>
 
 - 📫 How to reach me **ombhanushali@hotmail.com**
-## 🌐 Socials:
+<h2 align="start">
+  <img src="https://res.cloudinary.com/dnwymqpt8/image/upload/v1752070823/globe-1992-128-unscreen_hqp1m9.gif" width="22" style="vertical-align: middle;"> <span style="vertical-align: middle;">Socials:</span>
+</h2>
+
 <a href="https://www.linkedin.com/in/ombhanushaliii/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:ombhanushali@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.codechef.com/"> <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"> </a>
