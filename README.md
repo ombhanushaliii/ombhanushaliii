@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Om Bhanushali!</h1>
+<h1 align="center">hello!</h1>
 
 - 📫 How to reach me **ombhanushali@hotmail.com**
 <h2 align="start">
