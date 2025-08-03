@@ -1,6 +1,6 @@
 <h1 align="center">hello!</h1>
 
-- 📫 How to reach me **ombhanushali005@gmail.com**
+How to reach me **ombhanushali005@gmail.com**
 <h2 align="start">
   <img src="https://res.cloudinary.com/dnwymqpt8/image/upload/v1752070823/globe-1992-128-unscreen_hqp1m9.gif" width="20" style="vertical-align: middle;"> <span style="vertical-align: middle;">Socials:</span>
 </h2>
